@@ -24,7 +24,7 @@ function sumOfArray(){ #adds all values in array together
 
 size=0 #number of elements inputted
 number=0 #input holder
-Array=(0,0,0,0,0,0,0,0,0,0) #will store inputs
+Array=() #will store inputs
 
 echo "Please enter 5-10 numbers (input 'D' when done): "
 
